@@ -34,7 +34,7 @@ Refer [here](https://github.com/actions/checkout/blob/v1/README.md) for previous
 
 <!-- start usage -->
 ```yaml
-- uses: actions/checkout@v2
+- uses: wandera/checkout@v2
   with:
     # Repository name with owner. For example, actions/checkout
     # Default: ${{ github.repository }}
